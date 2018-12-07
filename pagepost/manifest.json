@@ -2,12 +2,12 @@
 	"name": "PageData",
 	"icons": [
 		{
-			"src": "https://cdn.rawgit.com/dmhdm/assets/master/pagepost/android-chrome-192x192.png",
+			"src": "https://cdn.jsdelivr.net/gh/dmhdm/assets/pagepost/android-chrome-192x192.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "https://cdn.rawgit.com/dmhdm/assets/master/pagepost/android-chrome-512x512.png",
+			"src": "https://cdn.jsdelivr.net/gh/dmhdm/assets/pagepost/android-chrome-512x512.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}
